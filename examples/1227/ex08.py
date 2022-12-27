@@ -17,7 +17,7 @@ def and_gate(x1, x2):
     else:
         return 1
 
-
+ 
 def nand_gate(x1, x2):
     x = np.array([x1, x2])
     w = np.array([-0.5, -0.5])

@@ -43,7 +43,7 @@ model = nn.Sequential(
 ).to(device)
 
 print(model)
-
+ 
 
 
 

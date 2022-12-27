@@ -63,7 +63,7 @@ model = nn.Sequential(
 )
 
 print(model)
-
+ 
 '''
 Sequential(
   (0): Linear(in_features=64, out_features=32, bias=True)

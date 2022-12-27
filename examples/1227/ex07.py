@@ -57,5 +57,5 @@ def or_gate(x1, x2):
     else:
         return 1
 print(or_gate(0,0))
-
+ 
     
